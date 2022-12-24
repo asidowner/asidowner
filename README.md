@@ -1,6 +1,6 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi"> My name is Anton :)
 
-#### I am in the process of graduating from Hexlet school and am now looking for a new career as a Python developer.
+#### I graduated from the Hexlet school and am now looking for a new career as a Python developer.
 
 - 🌱 I’m currently learning Python.
 - 🔭 Open to work, remote or Samara. 
