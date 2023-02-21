@@ -10,6 +10,6 @@
 - 📫 asid.owner@gmail.com
 - <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="18px" height="18px" alt="telegram"> [Xiandor](https://t.me/Xiandor)
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xiandor&layout=compact&hide=css,html&theme=onedark)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asidowner&layout=compact&hide=css,html&theme=onedark)
 
-![Github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Xiandor&count_private=true&show_icons=true&theme=onedark)
+![Github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=asidowner&count_private=true&show_icons=true&theme=onedark)
