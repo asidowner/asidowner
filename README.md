@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Java.
 - 🔭 Open to work, remote or Samara. 
-- Stack : Java / Spring / Java Javalin / Python / Django / Flask / Pytest / Airflow
+- Stack : Java / Spring / Javalin / Python / Django / Flask / Pytest / Airflow
 - 🎓 Visit my Hexlet profile: [asid_owner](https://ru.hexlet.io/u/asid_owner)  
 - 📫 asid.owner@gmail.com
 - <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="18px" height="18px" alt="telegram"> [Xiandor](https://t.me/Xiandor)
