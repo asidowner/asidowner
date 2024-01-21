@@ -5,7 +5,6 @@
 - Stack : Java / Spring / Java Javalin / Python / Django / Flask / Pytest
 - 🎓 Visit my Hexlet profile: [asid_owner](https://ru.hexlet.io/u/asid_owner)  
 - 📫 asid.owner@gmail.com
-- ☎ +7-(996)-34-17-84
 - <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="18px" height="18px" alt="telegram"> [Xiandor](https://t.me/Xiandor)
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asidowner&layout=compact&hide=css,html&theme=onedark)
